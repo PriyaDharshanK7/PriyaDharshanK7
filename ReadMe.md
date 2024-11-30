@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Priya Dharshan K <br>👀 I’m interested in Java and Python FullStack Web Development! <br>🌱 I’m currently learning Web Development, Kotlin, Django! <br>💞️ I’m looking to collaborate on Java and other Software Development Projects Also Android Application Development! <br>📫 Reach me @ pdk72005@gmail.com | priyadharshan_19_ <br>😄 Pronouns: He/Him ⚡ <br>Fun fact: I love Anime and Cricket!
+👋 Hi, I’m @Priya Dharshan K <br>👀 I’m interested in Java and Python FullStack Web Development! <br>🌱 I’m currently learning Web Development, Kotlin, Django! <br>💞️ I’m looking to collaborate on Java and other Software Development Projects Also Android Application Development! <br>📫 Reach me @ pdk72005@gmail.com <br>😄 Pronouns: He/Him ⚡ <br>Fun fact: I love Anime and Cricket!
 
 
 ## 🌐 Socials:
